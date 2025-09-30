@@ -1,0 +1,1201 @@
+ID,Domain,Latency_ms,Interoperability,Data_Integrity,Predictive_Accuracy
+1,6G Networks,80,74,86,78
+2,Telecom,109,88,87,76
+3,Insurance/Enterprise,80,84,88,88
+4,Industry 5.0,82,77,89,76
+5,Utilities,96,89,93,89
+6,6G Networks,84,86,88,86
+7,IoT Networking/Systems,71,70,93,79
+8,Healthcare,73,81,94,94
+9,6G Networks,98,88,87,81
+10,Insurance/Enterprise,69,84,92,84
+11,Insurance/Enterprise,110,78,85,88
+12,Industry 5.0,79,76,93,88
+13,Utilities,99,71,93,79
+14,Telecom,80,78,94,92
+15,Industry 5.0,76,79,86,88
+16,Industry 5.0,93,71,88,76
+17,Healthcare,105,88,92,86
+18,UAV/IoT,86,80,91,80
+19,Utilities,89,82,85,78
+20,Smart Cities,102,79,89,87
+21,Industry 5.0,102,83,91,78
+22,Aquaculture,89,87,88,88
+23,UAV/IoT,83,88,85,90
+24,Smart Cities,91,91,93,78
+25,Aquaculture,87,78,89,75
+26,Utilities,94,94,86,87
+27,Agriculture,72,76,92,78
+28,Aquaculture,94,72,86,94
+29,IoT Networking/Systems,79,89,87,92
+30,UAV/IoT,103,75,94,80
+31,Aquaculture,79,90,85,77
+32,Security/IoT,80,71,86,87
+33,Agriculture,96,75,91,90
+34,Insurance/Enterprise,90,72,94,79
+35,Insurance/Enterprise,124,85,86,78
+36,IoT Networking/Systems,65,77,90,82
+37,Aquaculture,91,71,87,93
+38,Aquaculture,106,86,88,88
+39,Healthcare,81,78,92,81
+40,Aquaculture,76,81,87,88
+41,6G Networks,76,72,94,80
+42,Telecom,65,80,90,86
+43,Security/IoT,110,70,85,90
+44,Healthcare,85,92,91,91
+45,Utilities,83,82,92,87
+46,Healthcare,58,84,92,88
+47,6G Networks,68,74,87,81
+48,Utilities,111,90,94,88
+49,Security/IoT,94,86,85,89
+50,6G Networks,107,94,93,86
+51,Smart Cities,105,92,90,91
+52,Telecom,74,93,93,83
+53,Security/IoT,126,94,91,89
+54,Aquaculture,119,75,85,86
+55,Smart Cities,81,90,85,76
+56,IoT Networking/Systems,36,91,90,79
+57,Security/IoT,84,80,89,87
+58,IoT Networking/Systems,93,87,93,94
+59,Utilities,81,73,86,82
+60,Smart Cities,86,72,92,88
+61,Telecom,77,82,89,89
+62,Aquaculture,103,92,86,85
+63,Aquaculture,90,78,94,75
+64,6G Networks,104,90,90,77
+65,Aquaculture,108,75,94,91
+66,Industry 5.0,57,81,92,93
+67,Healthcare,78,71,88,88
+68,Agriculture,80,72,86,82
+69,Telecom,128,72,89,87
+70,Smart Cities,92,81,86,94
+71,Industry 5.0,102,84,86,77
+72,Telecom,61,78,90,79
+73,Smart Cities,92,92,94,83
+74,UAV/IoT,104,77,93,80
+75,UAV/IoT,102,80,88,76
+76,IoT Networking/Systems,99,85,90,87
+77,Telecom,90,94,91,79
+78,UAV/IoT,90,91,90,82
+79,Smart Cities,64,73,92,75
+80,IoT Networking/Systems,76,70,88,94
+81,Aquaculture,93,93,85,86
+82,Smart Cities,79,76,91,85
+83,IoT Networking/Systems,100,71,87,81
+84,Telecom,97,93,90,89
+85,Industry 5.0,110,74,86,85
+86,6G Networks,104,76,93,90
+87,Aquaculture,93,73,85,77
+88,Security/IoT,101,74,90,94
+89,Industry 5.0,105,93,90,88
+90,Utilities,82,70,89,77
+91,Smart Cities,85,70,89,75
+92,Utilities,88,84,85,89
+93,Industry 5.0,82,89,94,75
+94,IoT Networking/Systems,105,88,89,91
+95,Security/IoT,80,79,86,76
+96,Aquaculture,108,87,91,94
+97,Aquaculture,84,72,87,80
+98,Aquaculture,97,80,88,82
+99,Security/IoT,92,84,87,90
+100,Agriculture,75,80,87,93
+101,Security/IoT,89,86,88,75
+102,6G Networks,95,86,89,77
+103,Security/IoT,89,75,85,77
+104,Industry 5.0,69,74,88,79
+105,Agriculture,115,77,92,86
+106,Aquaculture,91,71,94,86
+107,Industry 5.0,78,85,91,94
+108,Industry 5.0,114,89,93,87
+109,Insurance/Enterprise,99,93,89,94
+110,Healthcare,71,81,94,83
+111,Agriculture,74,75,88,81
+112,Industry 5.0,86,70,92,78
+113,Healthcare,94,73,93,93
+114,Healthcare,99,86,91,93
+115,Agriculture,104,82,91,80
+116,Insurance/Enterprise,98,87,89,87
+117,Utilities,110,74,88,85
+118,IoT Networking/Systems,91,93,94,87
+119,6G Networks,78,93,85,87
+120,IoT Networking/Systems,89,72,94,94
+121,Security/IoT,88,80,94,89
+122,Aquaculture,51,82,91,87
+123,6G Networks,81,73,85,85
+124,Security/IoT,94,83,85,93
+125,Industry 5.0,83,91,89,82
+126,Aquaculture,80,80,93,94
+127,Smart Cities,103,79,90,82
+128,Agriculture,76,88,87,84
+129,6G Networks,100,87,87,90
+130,6G Networks,70,75,91,93
+131,Industry 5.0,131,84,90,85
+132,Utilities,86,90,93,87
+133,Healthcare,85,79,90,83
+134,Aquaculture,107,74,89,94
+135,Industry 5.0,83,74,94,93
+136,UAV/IoT,111,79,91,90
+137,Insurance/Enterprise,95,74,85,81
+138,Healthcare,88,72,91,93
+139,Agriculture,86,92,87,86
+140,Healthcare,108,75,93,89
+141,Utilities,93,73,90,88
+142,Healthcare,96,87,93,85
+143,Agriculture,98,78,89,84
+144,Utilities,91,86,91,85
+145,IoT Networking/Systems,97,82,88,80
+146,6G Networks,88,84,91,76
+147,6G Networks,89,89,85,85
+148,Insurance/Enterprise,73,86,91,93
+149,Security/IoT,94,82,92,80
+150,IoT Networking/Systems,64,85,89,88
+151,IoT Networking/Systems,94,91,86,94
+152,Aquaculture,85,73,89,80
+153,Healthcare,95,74,90,91
+154,6G Networks,74,74,86,84
+155,Agriculture,58,78,90,75
+156,Telecom,84,86,90,77
+157,Telecom,74,82,85,82
+158,Utilities,63,71,85,82
+159,6G Networks,101,82,94,94
+160,6G Networks,114,91,87,89
+161,Insurance/Enterprise,78,90,94,81
+162,Telecom,88,92,94,85
+163,6G Networks,85,88,87,81
+164,Insurance/Enterprise,80,72,88,78
+165,Healthcare,99,79,86,86
+166,UAV/IoT,105,71,93,80
+167,Aquaculture,76,82,94,88
+168,Smart Cities,90,88,91,86
+169,IoT Networking/Systems,109,86,91,85
+170,Security/IoT,100,90,90,93
+171,Utilities,102,83,87,79
+172,UAV/IoT,110,81,90,88
+173,Aquaculture,110,90,92,90
+174,Aquaculture,105,81,92,87
+175,Aquaculture,92,80,93,94
+176,Aquaculture,84,76,85,78
+177,Telecom,91,73,85,85
+178,Insurance/Enterprise,81,88,87,91
+179,IoT Networking/Systems,60,70,87,81
+180,6G Networks,85,93,94,88
+181,Aquaculture,95,72,92,85
+182,Security/IoT,81,82,94,83
+183,6G Networks,87,84,85,87
+184,Agriculture,87,71,86,92
+185,Agriculture,110,80,86,85
+186,Security/IoT,84,73,87,89
+187,Insurance/Enterprise,110,88,90,93
+188,Security/IoT,49,86,85,75
+189,Telecom,110,72,86,78
+190,Security/IoT,109,87,85,88
+191,Healthcare,103,77,89,88
+192,6G Networks,59,91,91,77
+193,UAV/IoT,105,94,92,91
+194,Industry 5.0,89,93,94,77
+195,Insurance/Enterprise,52,88,85,90
+196,Security/IoT,109,74,91,88
+197,Utilities,111,76,89,94
+198,Agriculture,61,90,94,87
+199,Healthcare,92,77,85,89
+200,IoT Networking/Systems,110,74,87,88
+201,Aquaculture,108,86,91,93
+202,Industry 5.0,102,74,94,80
+203,Insurance/Enterprise,50,73,85,84
+204,UAV/IoT,100,91,91,89
+205,Industry 5.0,86,88,89,94
+206,Security/IoT,104,90,85,80
+207,Telecom,93,71,85,84
+208,Agriculture,89,80,85,81
+209,Agriculture,99,91,93,91
+210,IoT Networking/Systems,87,82,87,92
+211,Telecom,89,84,89,91
+212,Aquaculture,81,81,94,83
+213,6G Networks,65,91,93,84
+214,Smart Cities,98,90,90,84
+215,Healthcare,77,91,93,81
+216,Agriculture,86,80,92,90
+217,Utilities,94,76,92,92
+218,Agriculture,58,74,85,80
+219,Industry 5.0,62,86,93,94
+220,Agriculture,85,93,90,75
+221,Insurance/Enterprise,96,89,93,75
+222,Agriculture,101,78,87,86
+223,Smart Cities,66,83,87,76
+224,Smart Cities,99,81,90,78
+225,Aquaculture,86,75,93,91
+226,UAV/IoT,76,86,91,78
+227,6G Networks,80,88,87,85
+228,Utilities,102,88,87,78
+229,Agriculture,94,85,86,75
+230,Agriculture,90,81,93,81
+231,Healthcare,93,81,87,92
+232,Smart Cities,103,89,89,83
+233,Utilities,88,75,93,77
+234,Aquaculture,90,92,92,82
+235,IoT Networking/Systems,107,73,86,93
+236,UAV/IoT,85,75,87,78
+237,6G Networks,99,80,86,92
+238,Telecom,82,70,92,94
+239,6G Networks,83,93,90,85
+240,Insurance/Enterprise,88,92,90,88
+241,Industry 5.0,97,84,93,92
+242,Insurance/Enterprise,107,80,92,90
+243,Agriculture,91,94,88,77
+244,UAV/IoT,67,88,88,89
+245,Industry 5.0,99,87,93,78
+246,Utilities,126,86,85,79
+247,Telecom,91,88,86,91
+248,Smart Cities,64,90,86,81
+249,UAV/IoT,92,83,90,90
+250,UAV/IoT,89,87,88,88
+251,Insurance/Enterprise,88,88,94,90
+252,Agriculture,104,84,87,81
+253,Security/IoT,110,84,87,83
+254,Aquaculture,100,73,87,78
+255,Insurance/Enterprise,88,76,90,85
+256,UAV/IoT,106,82,92,76
+257,Healthcare,67,72,91,86
+258,Telecom,79,85,88,86
+259,Aquaculture,80,78,88,78
+260,Insurance/Enterprise,89,77,94,92
+261,Telecom,97,89,86,81
+262,Healthcare,86,82,85,75
+263,IoT Networking/Systems,76,86,93,87
+264,Healthcare,104,86,86,80
+265,Healthcare,86,86,92,80
+266,Telecom,91,70,93,86
+267,6G Networks,98,77,88,82
+268,Telecom,90,88,92,93
+269,Security/IoT,90,75,93,79
+270,Agriculture,105,72,94,92
+271,Industry 5.0,92,74,94,79
+272,6G Networks,102,82,89,84
+273,Smart Cities,98,84,91,75
+274,Industry 5.0,120,83,94,84
+275,Agriculture,96,92,88,79
+276,Insurance/Enterprise,99,85,85,86
+277,Aquaculture,106,87,87,81
+278,Security/IoT,90,91,89,83
+279,Security/IoT,80,91,87,86
+280,Smart Cities,82,80,91,75
+281,6G Networks,83,72,93,85
+282,IoT Networking/Systems,75,91,90,89
+283,Healthcare,94,79,94,76
+284,6G Networks,80,79,85,94
+285,Aquaculture,92,90,91,81
+286,IoT Networking/Systems,87,85,87,86
+287,Security/IoT,89,81,89,92
+288,Telecom,98,71,94,77
+289,Aquaculture,81,78,88,81
+290,Agriculture,99,93,94,85
+291,Smart Cities,113,72,89,92
+292,Agriculture,95,93,89,86
+293,Aquaculture,78,94,90,80
+294,Utilities,80,84,94,79
+295,Utilities,86,72,94,75
+296,Insurance/Enterprise,81,88,90,86
+297,6G Networks,75,87,92,85
+298,Security/IoT,92,77,92,78
+299,Security/IoT,86,86,93,92
+300,Healthcare,92,77,92,78
+301,Healthcare,107,76,86,91
+302,Healthcare,86,76,94,76
+303,Telecom,72,72,85,76
+304,Industry 5.0,84,70,94,86
+305,UAV/IoT,101,73,86,80
+306,Industry 5.0,100,94,86,84
+307,Agriculture,97,74,87,90
+308,Industry 5.0,80,70,94,88
+309,Telecom,101,84,91,81
+310,Insurance/Enterprise,104,74,86,93
+311,Agriculture,79,82,85,91
+312,Industry 5.0,89,77,90,83
+313,Telecom,120,77,93,87
+314,UAV/IoT,78,74,87,79
+315,Industry 5.0,64,78,90,79
+316,Telecom,110,70,87,84
+317,Healthcare,107,73,85,84
+318,Security/IoT,83,72,89,81
+319,Healthcare,88,71,94,89
+320,Security/IoT,71,77,88,81
+321,Smart Cities,91,92,91,89
+322,Smart Cities,107,78,90,77
+323,Smart Cities,81,71,94,93
+324,UAV/IoT,103,83,91,84
+325,Healthcare,96,83,89,89
+326,Security/IoT,98,73,88,77
+327,Telecom,82,75,91,80
+328,Agriculture,84,80,91,86
+329,Telecom,62,72,90,89
+330,Agriculture,81,77,92,80
+331,Utilities,107,72,88,87
+332,Telecom,76,83,94,93
+333,Industry 5.0,78,82,89,77
+334,Industry 5.0,99,82,88,82
+335,6G Networks,96,71,85,82
+336,Healthcare,100,82,92,94
+337,Agriculture,72,88,85,89
+338,Agriculture,128,75,89,78
+339,Aquaculture,71,85,90,93
+340,Insurance/Enterprise,92,71,90,77
+341,Healthcare,87,77,89,87
+342,UAV/IoT,72,86,87,82
+343,6G Networks,84,92,89,90
+344,UAV/IoT,90,71,92,87
+345,UAV/IoT,80,79,86,77
+346,UAV/IoT,104,85,90,90
+347,Healthcare,87,75,93,83
+348,UAV/IoT,69,71,92,88
+349,Industry 5.0,68,71,92,87
+350,Insurance/Enterprise,99,82,92,81
+351,Insurance/Enterprise,67,93,91,89
+352,Smart Cities,94,84,92,81
+353,Utilities,96,71,90,80
+354,Agriculture,75,76,86,76
+355,Aquaculture,103,72,86,83
+356,Agriculture,64,77,92,91
+357,Utilities,94,92,85,79
+358,Aquaculture,89,83,90,86
+359,Healthcare,88,93,90,75
+360,Telecom,72,92,88,84
+361,Healthcare,75,91,94,85
+362,Agriculture,114,76,87,90
+363,Agriculture,108,90,87,88
+364,Aquaculture,101,76,85,82
+365,Aquaculture,104,70,87,91
+366,Utilities,102,86,88,92
+367,UAV/IoT,85,78,89,86
+368,Healthcare,90,90,87,91
+369,Aquaculture,67,82,90,88
+370,Security/IoT,88,90,89,90
+371,Utilities,107,88,87,88
+372,Industry 5.0,80,90,90,83
+373,Agriculture,105,88,90,78
+374,Utilities,91,94,92,85
+375,Healthcare,69,94,86,80
+376,Aquaculture,73,91,85,89
+377,Agriculture,103,86,88,79
+378,Telecom,98,92,91,85
+379,Utilities,91,92,94,92
+380,6G Networks,85,79,87,87
+381,Agriculture,93,79,87,85
+382,Healthcare,103,73,89,88
+383,Smart Cities,112,77,89,92
+384,Security/IoT,112,91,94,93
+385,IoT Networking/Systems,95,89,87,89
+386,UAV/IoT,87,89,93,83
+387,IoT Networking/Systems,92,87,88,82
+388,Healthcare,97,83,87,94
+389,Industry 5.0,97,87,86,75
+390,Industry 5.0,109,83,94,78
+391,Smart Cities,121,89,93,88
+392,UAV/IoT,86,90,88,76
+393,6G Networks,122,93,87,90
+394,Smart Cities,107,84,91,77
+395,Insurance/Enterprise,88,91,92,82
+396,IoT Networking/Systems,112,73,86,80
+397,Smart Cities,115,82,91,90
+398,IoT Networking/Systems,83,92,89,90
+399,Agriculture,115,77,89,81
+400,Industry 5.0,106,87,87,87
+401,Agriculture,125,81,89,87
+402,Security/IoT,83,92,86,79
+403,Insurance/Enterprise,84,83,88,94
+404,UAV/IoT,59,71,90,92
+405,6G Networks,98,87,85,89
+406,IoT Networking/Systems,95,93,94,92
+407,6G Networks,81,71,88,76
+408,IoT Networking/Systems,88,80,90,84
+409,Healthcare,70,78,93,87
+410,Smart Cities,107,81,86,92
+411,Security/IoT,82,86,91,89
+412,Industry 5.0,136,84,90,86
+413,Aquaculture,87,94,86,89
+414,IoT Networking/Systems,78,86,92,87
+415,6G Networks,83,87,91,92
+416,Security/IoT,68,91,89,89
+417,Telecom,97,75,89,85
+418,Telecom,83,86,91,93
+419,Agriculture,106,92,93,77
+420,Industry 5.0,85,93,93,81
+421,Aquaculture,110,87,93,88
+422,Healthcare,101,77,90,88
+423,6G Networks,90,78,94,87
+424,Aquaculture,113,75,90,86
+425,Smart Cities,104,74,87,83
+426,Smart Cities,134,81,85,75
+427,6G Networks,83,94,91,93
+428,UAV/IoT,91,80,88,85
+429,Healthcare,113,94,85,93
+430,Security/IoT,66,70,92,92
+431,IoT Networking/Systems,109,80,90,86
+432,UAV/IoT,96,88,90,75
+433,IoT Networking/Systems,76,78,86,93
+434,IoT Networking/Systems,69,71,85,94
+435,UAV/IoT,79,81,86,91
+436,Agriculture,55,73,88,79
+437,Telecom,82,73,86,77
+438,IoT Networking/Systems,99,87,85,76
+439,UAV/IoT,82,84,91,77
+440,UAV/IoT,110,88,92,82
+441,Insurance/Enterprise,114,82,90,90
+442,Aquaculture,109,88,88,80
+443,Utilities,93,86,90,87
+444,Agriculture,55,75,87,90
+445,Industry 5.0,79,85,92,90
+446,Utilities,87,93,94,77
+447,Aquaculture,76,81,86,87
+448,Aquaculture,87,88,89,88
+449,Aquaculture,114,74,85,82
+450,Utilities,65,86,90,86
+451,6G Networks,117,92,86,82
+452,Telecom,103,70,88,83
+453,UAV/IoT,94,94,90,75
+454,Telecom,79,93,94,80
+455,Healthcare,76,92,92,93
+456,6G Networks,65,79,92,85
+457,Industry 5.0,115,84,90,85
+458,Telecom,113,92,88,87
+459,Smart Cities,68,90,92,85
+460,Aquaculture,81,90,92,92
+461,IoT Networking/Systems,96,80,94,89
+462,Healthcare,85,82,85,75
+463,Agriculture,61,74,88,81
+464,Industry 5.0,80,70,88,87
+465,Healthcare,119,93,91,86
+466,Aquaculture,81,81,91,92
+467,IoT Networking/Systems,87,80,92,93
+468,6G Networks,72,86,89,89
+469,IoT Networking/Systems,98,73,91,82
+470,Utilities,91,84,92,93
+471,IoT Networking/Systems,78,94,93,84
+472,Utilities,70,78,87,81
+473,6G Networks,111,90,87,92
+474,Security/IoT,65,89,88,90
+475,Aquaculture,97,88,89,94
+476,Utilities,57,88,94,80
+477,Agriculture,100,81,85,83
+478,IoT Networking/Systems,104,74,91,87
+479,IoT Networking/Systems,106,79,93,82
+480,Agriculture,87,86,92,90
+481,Smart Cities,113,74,89,87
+482,UAV/IoT,124,91,88,87
+483,Security/IoT,85,85,91,91
+484,Industry 5.0,83,76,89,94
+485,Utilities,92,78,91,79
+486,Agriculture,82,72,85,91
+487,6G Networks,80,84,85,83
+488,Utilities,81,85,94,76
+489,UAV/IoT,115,87,87,92
+490,6G Networks,101,83,86,83
+491,Healthcare,82,72,86,80
+492,Aquaculture,53,81,91,85
+493,IoT Networking/Systems,66,78,94,80
+494,Healthcare,97,76,86,80
+495,Utilities,58,78,88,87
+496,UAV/IoT,94,82,86,85
+497,Security/IoT,74,87,90,88
+498,Aquaculture,91,74,92,76
+499,Utilities,90,82,94,82
+500,Agriculture,91,73,88,77
+501,Telecom,84,71,89,77
+502,Utilities,83,85,88,75
+503,Aquaculture,79,78,87,93
+504,IoT Networking/Systems,97,78,89,92
+505,IoT Networking/Systems,102,75,93,91
+506,Utilities,71,80,92,94
+507,6G Networks,89,91,92,87
+508,Telecom,92,93,92,77
+509,Agriculture,92,91,92,75
+510,Utilities,92,70,91,78
+511,6G Networks,83,73,92,87
+512,IoT Networking/Systems,94,82,92,91
+513,IoT Networking/Systems,99,92,92,85
+514,UAV/IoT,92,82,94,76
+515,Utilities,97,82,91,90
+516,Telecom,104,71,85,76
+517,Smart Cities,62,78,88,93
+518,Telecom,104,93,88,93
+519,IoT Networking/Systems,95,77,89,90
+520,IoT Networking/Systems,73,76,94,93
+521,Healthcare,102,73,90,83
+522,IoT Networking/Systems,84,87,88,75
+523,Agriculture,86,72,86,84
+524,Industry 5.0,82,75,90,93
+525,Utilities,94,81,92,75
+526,Telecom,78,81,92,76
+527,Industry 5.0,103,90,91,90
+528,6G Networks,87,77,90,86
+529,Smart Cities,84,91,86,82
+530,Agriculture,101,91,91,92
+531,Aquaculture,85,70,89,76
+532,Insurance/Enterprise,104,73,90,87
+533,Telecom,104,90,94,80
+534,Industry 5.0,69,80,92,80
+535,Aquaculture,106,72,92,83
+536,Smart Cities,68,82,87,90
+537,Healthcare,107,94,91,85
+538,Aquaculture,120,86,85,81
+539,Agriculture,103,91,85,84
+540,Agriculture,57,91,91,84
+541,Healthcare,105,79,94,94
+542,Insurance/Enterprise,123,90,93,92
+543,Utilities,85,81,91,94
+544,Aquaculture,89,84,94,83
+545,Healthcare,72,90,89,89
+546,Agriculture,94,79,92,78
+547,Agriculture,109,83,86,82
+548,Industry 5.0,100,82,93,83
+549,IoT Networking/Systems,137,74,90,87
+550,Insurance/Enterprise,90,75,93,83
+551,Aquaculture,65,93,86,78
+552,Aquaculture,92,71,87,91
+553,Smart Cities,53,91,92,90
+554,Healthcare,82,86,85,89
+555,Smart Cities,114,73,94,77
+556,Healthcare,94,83,91,94
+557,6G Networks,92,79,91,79
+558,Agriculture,117,72,85,79
+559,IoT Networking/Systems,85,94,93,94
+560,Industry 5.0,108,72,92,89
+561,IoT Networking/Systems,91,84,88,92
+562,IoT Networking/Systems,95,75,94,89
+563,IoT Networking/Systems,71,86,89,76
+564,Smart Cities,82,81,86,87
+565,Healthcare,69,91,93,78
+566,Security/IoT,88,89,90,84
+567,6G Networks,95,93,87,87
+568,Telecom,73,80,91,84
+569,IoT Networking/Systems,120,94,93,83
+570,Utilities,94,73,87,82
+571,Smart Cities,90,75,86,77
+572,Insurance/Enterprise,101,70,91,90
+573,Industry 5.0,77,89,91,88
+574,Telecom,92,92,88,83
+575,Security/IoT,79,85,93,85
+576,Utilities,113,84,92,77
+577,Security/IoT,74,86,85,79
+578,Telecom,90,77,85,84
+579,IoT Networking/Systems,94,81,89,87
+580,Utilities,95,91,90,78
+581,Security/IoT,81,90,87,87
+582,Industry 5.0,76,79,93,86
+583,Healthcare,81,84,94,79
+584,Agriculture,97,78,90,84
+585,Healthcare,87,71,88,83
+586,Telecom,101,74,91,94
+587,Smart Cities,97,75,92,81
+588,Agriculture,55,76,93,76
+589,6G Networks,93,90,90,81
+590,Industry 5.0,123,94,90,82
+591,6G Networks,109,70,92,81
+592,Utilities,96,92,89,88
+593,Aquaculture,74,76,87,93
+594,Agriculture,97,89,87,79
+595,6G Networks,101,94,90,92
+596,6G Networks,86,81,86,94
+597,Security/IoT,94,85,90,86
+598,Healthcare,112,85,90,91
+599,Security/IoT,77,80,92,87
+600,Agriculture,74,90,91,76
+601,Agriculture,100,73,92,87
+602,Telecom,96,82,93,81
+603,Security/IoT,105,76,90,84
+604,UAV/IoT,98,73,87,80
+605,Insurance/Enterprise,81,84,94,77
+606,Healthcare,96,88,87,77
+607,Agriculture,72,78,85,92
+608,Telecom,86,80,89,85
+609,Aquaculture,97,77,88,94
+610,Security/IoT,84,70,93,79
+611,Healthcare,127,92,93,93
+612,Aquaculture,61,94,89,93
+613,Security/IoT,81,93,94,89
+614,6G Networks,75,77,88,90
+615,Aquaculture,79,82,91,83
+616,Telecom,80,91,90,78
+617,Healthcare,70,73,88,89
+618,IoT Networking/Systems,101,77,94,86
+619,Utilities,81,72,86,77
+620,Utilities,92,78,85,88
+621,Healthcare,83,71,88,91
+622,Aquaculture,79,71,88,93
+623,Security/IoT,115,82,85,80
+624,Telecom,103,84,90,78
+625,Insurance/Enterprise,61,92,88,81
+626,Utilities,60,81,85,93
+627,Telecom,105,73,85,91
+628,Utilities,82,77,85,90
+629,6G Networks,65,78,92,89
+630,Security/IoT,105,92,94,82
+631,6G Networks,92,74,92,93
+632,Utilities,93,93,86,82
+633,IoT Networking/Systems,102,89,91,92
+634,IoT Networking/Systems,70,87,92,90
+635,6G Networks,65,80,92,94
+636,IoT Networking/Systems,113,84,94,93
+637,Utilities,68,91,91,84
+638,Healthcare,71,78,89,91
+639,6G Networks,74,86,85,87
+640,Insurance/Enterprise,121,81,93,87
+641,Insurance/Enterprise,97,76,91,81
+642,Smart Cities,104,79,86,84
+643,Aquaculture,92,94,90,76
+644,Security/IoT,80,94,86,78
+645,IoT Networking/Systems,99,79,85,80
+646,IoT Networking/Systems,66,82,91,92
+647,Aquaculture,73,88,86,80
+648,Agriculture,100,80,86,91
+649,UAV/IoT,69,82,89,88
+650,6G Networks,87,90,89,85
+651,Industry 5.0,87,77,91,93
+652,IoT Networking/Systems,82,77,85,76
+653,Security/IoT,60,73,92,77
+654,Smart Cities,80,84,87,85
+655,Insurance/Enterprise,77,80,88,80
+656,IoT Networking/Systems,92,80,93,88
+657,Smart Cities,91,70,88,93
+658,Utilities,95,86,94,90
+659,Utilities,79,84,89,81
+660,UAV/IoT,97,89,91,82
+661,Healthcare,66,75,88,93
+662,Industry 5.0,62,93,85,94
+663,Agriculture,54,91,93,90
+664,UAV/IoT,82,94,88,81
+665,Telecom,78,84,93,83
+666,Agriculture,101,78,90,87
+667,6G Networks,80,83,85,75
+668,Security/IoT,94,87,87,82
+669,Telecom,102,86,86,78
+670,Telecom,79,87,93,77
+671,UAV/IoT,94,74,85,77
+672,Aquaculture,105,89,93,87
+673,Healthcare,71,89,93,82
+674,Aquaculture,90,78,92,81
+675,UAV/IoT,79,80,92,75
+676,6G Networks,72,93,85,90
+677,Insurance/Enterprise,66,91,92,80
+678,IoT Networking/Systems,72,70,94,81
+679,IoT Networking/Systems,90,87,87,86
+680,Healthcare,65,75,91,83
+681,6G Networks,81,71,85,85
+682,Healthcare,102,84,85,84
+683,Smart Cities,96,90,94,75
+684,Aquaculture,82,83,89,92
+685,IoT Networking/Systems,115,74,89,78
+686,Telecom,118,75,92,79
+687,Aquaculture,90,75,91,83
+688,Industry 5.0,52,91,92,91
+689,Security/IoT,103,87,90,77
+690,6G Networks,55,83,90,90
+691,Agriculture,112,79,86,79
+692,Healthcare,106,83,90,90
+693,Aquaculture,116,82,89,77
+694,Security/IoT,93,72,87,94
+695,Aquaculture,84,75,90,89
+696,Agriculture,83,77,92,77
+697,Security/IoT,81,81,93,94
+698,Industry 5.0,104,82,85,88
+699,Agriculture,100,80,87,90
+700,UAV/IoT,91,81,87,91
+701,Utilities,79,70,92,94
+702,UAV/IoT,129,86,85,92
+703,IoT Networking/Systems,103,85,89,92
+704,Aquaculture,66,80,87,88
+705,Utilities,82,82,86,92
+706,UAV/IoT,103,87,92,89
+707,Utilities,78,80,87,89
+708,Insurance/Enterprise,95,81,91,80
+709,Aquaculture,104,75,85,89
+710,Utilities,39,78,90,92
+711,Telecom,88,85,87,78
+712,Healthcare,88,73,92,82
+713,Healthcare,83,72,90,89
+714,Telecom,94,85,86,77
+715,Security/IoT,99,93,90,89
+716,Smart Cities,92,94,91,87
+717,Security/IoT,84,81,89,83
+718,Agriculture,99,80,87,76
+719,Agriculture,90,74,88,82
+720,Utilities,86,94,88,94
+721,UAV/IoT,70,87,90,91
+722,UAV/IoT,66,88,94,87
+723,Healthcare,70,92,85,75
+724,6G Networks,94,92,88,76
+725,Security/IoT,88,75,94,89
+726,Insurance/Enterprise,67,91,88,86
+727,Aquaculture,99,87,94,88
+728,IoT Networking/Systems,110,75,85,76
+729,Industry 5.0,81,73,93,92
+730,UAV/IoT,63,81,88,81
+731,Aquaculture,79,88,91,80
+732,Industry 5.0,102,71,87,88
+733,Aquaculture,98,86,94,82
+734,Utilities,76,80,87,76
+735,Industry 5.0,112,80,92,91
+736,IoT Networking/Systems,110,90,92,79
+737,Aquaculture,79,85,85,88
+738,Telecom,78,71,94,94
+739,IoT Networking/Systems,81,71,86,77
+740,Industry 5.0,82,92,92,79
+741,IoT Networking/Systems,104,77,85,90
+742,Aquaculture,96,82,92,92
+743,Smart Cities,103,79,92,91
+744,Aquaculture,100,77,86,85
+745,Aquaculture,115,73,88,91
+746,Utilities,74,84,90,90
+747,Security/IoT,95,70,93,76
+748,Telecom,57,80,92,78
+749,Insurance/Enterprise,70,76,92,81
+750,UAV/IoT,88,86,91,76
+751,Agriculture,96,89,93,80
+752,Security/IoT,88,93,86,91
+753,Agriculture,81,87,87,81
+754,Utilities,84,91,94,79
+755,Telecom,110,91,92,79
+756,Aquaculture,84,81,90,94
+757,Healthcare,116,78,94,90
+758,UAV/IoT,101,74,93,93
+759,Smart Cities,96,79,94,83
+760,Healthcare,72,73,88,79
+761,Utilities,104,74,92,82
+762,Security/IoT,82,79,94,83
+763,Smart Cities,72,80,87,79
+764,IoT Networking/Systems,97,90,87,84
+765,Industry 5.0,69,93,92,76
+766,Smart Cities,78,79,89,83
+767,Insurance/Enterprise,89,77,87,85
+768,Utilities,123,71,94,78
+769,6G Networks,79,92,85,76
+770,Industry 5.0,83,77,87,80
+771,Agriculture,100,85,93,88
+772,UAV/IoT,71,91,89,75
+773,Agriculture,96,74,94,92
+774,Smart Cities,108,94,86,81
+775,Agriculture,85,72,91,75
+776,Insurance/Enterprise,105,81,86,75
+777,Utilities,94,82,88,75
+778,IoT Networking/Systems,79,82,91,78
+779,Security/IoT,87,79,88,78
+780,UAV/IoT,84,73,91,92
+781,Insurance/Enterprise,88,78,91,85
+782,Insurance/Enterprise,92,91,85,75
+783,Agriculture,98,93,90,84
+784,Agriculture,97,92,93,83
+785,Smart Cities,53,71,86,78
+786,Security/IoT,88,88,87,80
+787,Healthcare,67,70,94,90
+788,Agriculture,85,94,89,76
+789,Utilities,88,76,93,92
+790,6G Networks,104,86,88,84
+791,UAV/IoT,89,72,85,91
+792,Aquaculture,93,89,88,87
+793,Agriculture,101,89,90,92
+794,Utilities,108,90,89,87
+795,Utilities,88,72,85,91
+796,UAV/IoT,91,72,88,79
+797,Healthcare,90,86,90,85
+798,Utilities,81,76,94,81
+799,6G Networks,78,83,94,84
+800,Utilities,55,86,88,91
+801,Utilities,73,87,93,89
+802,Utilities,63,82,89,92
+803,IoT Networking/Systems,108,89,92,93
+804,IoT Networking/Systems,92,89,93,76
+805,Healthcare,88,90,94,78
+806,Agriculture,79,87,89,77
+807,Utilities,90,73,90,81
+808,Security/IoT,77,70,85,92
+809,Agriculture,92,87,91,84
+810,Healthcare,93,70,88,81
+811,Telecom,77,82,86,82
+812,Agriculture,76,89,89,80
+813,Agriculture,104,89,87,75
+814,Industry 5.0,89,92,90,78
+815,Smart Cities,78,79,92,88
+816,Aquaculture,84,80,91,91
+817,Industry 5.0,74,78,87,94
+818,6G Networks,88,78,92,92
+819,IoT Networking/Systems,102,74,86,85
+820,IoT Networking/Systems,89,70,94,88
+821,Smart Cities,125,86,93,83
+822,UAV/IoT,96,91,88,89
+823,UAV/IoT,93,71,85,86
+824,Healthcare,76,93,92,84
+825,Insurance/Enterprise,86,82,91,93
+826,Smart Cities,78,78,89,93
+827,Aquaculture,57,73,94,80
+828,Agriculture,104,74,89,94
+829,UAV/IoT,82,80,91,80
+830,Aquaculture,78,93,89,82
+831,Utilities,93,88,92,75
+832,Insurance/Enterprise,97,90,90,91
+833,Security/IoT,85,72,89,91
+834,Agriculture,89,81,93,89
+835,6G Networks,101,88,86,81
+836,Utilities,84,88,85,93
+837,Utilities,94,82,92,77
+838,Smart Cities,65,76,87,85
+839,Insurance/Enterprise,71,84,91,94
+840,Healthcare,99,92,94,93
+841,6G Networks,70,76,92,83
+842,UAV/IoT,93,77,90,84
+843,Aquaculture,87,74,94,76
+844,Smart Cities,84,90,93,75
+845,UAV/IoT,77,83,91,90
+846,Smart Cities,103,73,94,92
+847,Smart Cities,115,92,89,91
+848,Smart Cities,94,79,92,80
+849,Insurance/Enterprise,94,89,86,88
+850,Healthcare,79,84,91,89
+851,Smart Cities,72,87,88,88
+852,Telecom,89,89,93,77
+853,Security/IoT,75,82,85,93
+854,UAV/IoT,63,77,91,86
+855,Agriculture,102,78,90,76
+856,Industry 5.0,102,85,92,77
+857,Aquaculture,77,88,89,92
+858,6G Networks,93,85,85,75
+859,IoT Networking/Systems,105,76,85,94
+860,Healthcare,93,83,93,80
+861,Agriculture,72,83,94,79
+862,Utilities,86,94,90,75
+863,Telecom,109,73,94,93
+864,IoT Networking/Systems,93,84,89,75
+865,Industry 5.0,98,72,85,90
+866,Agriculture,95,74,90,86
+867,IoT Networking/Systems,77,70,90,82
+868,Agriculture,80,72,87,90
+869,Aquaculture,95,84,92,75
+870,Telecom,102,93,85,78
+871,Industry 5.0,106,77,85,84
+872,Utilities,77,73,90,85
+873,Smart Cities,96,71,94,91
+874,UAV/IoT,107,93,85,81
+875,Utilities,75,93,90,86
+876,Smart Cities,112,79,85,81
+877,Insurance/Enterprise,114,73,90,86
+878,Insurance/Enterprise,129,72,87,89
+879,Insurance/Enterprise,93,71,92,76
+880,Healthcare,93,94,90,88
+881,Security/IoT,102,86,85,87
+882,6G Networks,101,92,89,78
+883,6G Networks,106,90,92,88
+884,Insurance/Enterprise,101,93,87,88
+885,UAV/IoT,88,89,90,90
+886,Industry 5.0,108,92,89,81
+887,Telecom,73,82,90,93
+888,Industry 5.0,90,74,94,76
+889,Telecom,113,90,85,84
+890,Industry 5.0,71,78,91,92
+891,Security/IoT,79,94,93,91
+892,Healthcare,100,94,86,79
+893,Healthcare,95,91,94,86
+894,Insurance/Enterprise,76,75,89,80
+895,Smart Cities,83,74,94,83
+896,IoT Networking/Systems,72,94,88,94
+897,Healthcare,104,79,90,75
+898,Healthcare,86,77,90,89
+899,Utilities,116,76,86,80
+900,Utilities,91,76,86,93
+901,Smart Cities,86,75,88,92
+902,Aquaculture,85,90,85,80
+903,IoT Networking/Systems,86,89,93,87
+904,UAV/IoT,91,72,91,75
+905,Utilities,127,88,91,87
+906,UAV/IoT,84,91,87,81
+907,Agriculture,85,84,87,89
+908,Utilities,90,73,85,86
+909,Security/IoT,106,81,87,75
+910,Aquaculture,68,75,87,89
+911,IoT Networking/Systems,96,88,88,78
+912,Smart Cities,77,73,88,87
+913,Agriculture,98,84,87,79
+914,IoT Networking/Systems,82,78,94,76
+915,Insurance/Enterprise,55,74,92,75
+916,Security/IoT,95,82,92,90
+917,IoT Networking/Systems,95,92,85,80
+918,Security/IoT,81,87,91,90
+919,Security/IoT,80,74,86,88
+920,UAV/IoT,70,94,85,77
+921,Industry 5.0,101,85,87,89
+922,Insurance/Enterprise,103,88,88,77
+923,Agriculture,76,83,90,76
+924,IoT Networking/Systems,81,94,94,75
+925,Telecom,89,85,89,83
+926,Agriculture,124,84,88,83
+927,Industry 5.0,98,91,92,81
+928,Agriculture,75,73,88,77
+929,Healthcare,94,76,94,92
+930,Telecom,69,85,86,85
+931,Industry 5.0,100,93,87,81
+932,UAV/IoT,115,91,90,83
+933,IoT Networking/Systems,115,90,92,75
+934,Aquaculture,101,91,92,88
+935,6G Networks,81,90,93,94
+936,Industry 5.0,70,77,91,80
+937,Smart Cities,68,86,86,81
+938,IoT Networking/Systems,47,85,92,84
+939,Insurance/Enterprise,100,92,91,81
+940,Industry 5.0,88,79,92,76
+941,Healthcare,103,79,87,78
+942,6G Networks,111,71,91,91
+943,Healthcare,91,78,94,75
+944,6G Networks,92,86,93,84
+945,Insurance/Enterprise,83,80,87,93
+946,Aquaculture,84,79,94,89
+947,Smart Cities,100,91,90,84
+948,IoT Networking/Systems,87,94,86,93
+949,UAV/IoT,85,86,86,86
+950,Healthcare,89,73,89,90
+951,Healthcare,103,85,89,83
+952,Security/IoT,79,89,91,89
+953,6G Networks,89,84,86,91
+954,Utilities,93,94,91,88
+955,Aquaculture,107,90,89,92
+956,IoT Networking/Systems,86,74,90,76
+957,6G Networks,79,75,92,78
+958,Security/IoT,82,86,94,92
+959,Agriculture,105,70,88,81
+960,6G Networks,120,94,91,87
+961,UAV/IoT,70,88,90,89
+962,IoT Networking/Systems,73,73,94,75
+963,Aquaculture,87,86,86,85
+964,Security/IoT,91,78,92,84
+965,Agriculture,101,93,94,79
+966,Telecom,76,71,93,90
+967,Security/IoT,74,77,89,85
+968,Telecom,92,84,94,80
+969,IoT Networking/Systems,86,76,88,83
+970,Healthcare,103,75,90,87
+971,Security/IoT,97,70,92,82
+972,Smart Cities,98,84,87,88
+973,Telecom,88,92,94,75
+974,UAV/IoT,125,76,85,91
+975,Smart Cities,77,94,88,79
+976,Industry 5.0,99,86,88,76
+977,Industry 5.0,70,71,85,83
+978,Agriculture,73,78,93,78
+979,Aquaculture,80,78,87,91
+980,Healthcare,114,82,89,91
+981,IoT Networking/Systems,93,75,90,92
+982,Security/IoT,81,75,92,90
+983,Utilities,95,89,90,82
+984,UAV/IoT,90,89,87,85
+985,Telecom,82,90,90,92
+986,IoT Networking/Systems,69,72,85,84
+987,Smart Cities,111,86,88,87
+988,Insurance/Enterprise,93,86,90,91
+989,Industry 5.0,122,81,91,92
+990,Insurance/Enterprise,104,85,94,84
+991,UAV/IoT,98,84,87,90
+992,Utilities,83,82,93,94
+993,Security/IoT,73,92,91,79
+994,Agriculture,86,70,85,87
+995,Utilities,73,86,86,92
+996,UAV/IoT,99,72,85,91
+997,Utilities,114,84,93,83
+998,UAV/IoT,86,73,93,88
+999,UAV/IoT,104,73,91,91
+1000,6G Networks,79,87,94,78
+1001,Telecom,85,86,87,92
+1002,Insurance/Enterprise,77,88,89,94
+1003,Industry 5.0,58,80,88,89
+1004,6G Networks,89,89,91,85
+1005,Security/IoT,91,72,93,86
+1006,6G Networks,105,77,86,83
+1007,Healthcare,101,83,92,87
+1008,Healthcare,102,70,93,89
+1009,Industry 5.0,75,83,94,89
+1010,Utilities,96,71,94,79
+1011,Telecom,113,92,93,93
+1012,Industry 5.0,95,73,94,94
+1013,UAV/IoT,117,93,91,88
+1014,Smart Cities,120,88,93,91
+1015,Telecom,85,75,93,92
+1016,Aquaculture,79,94,87,77
+1017,Insurance/Enterprise,78,70,88,76
+1018,Telecom,67,86,86,75
+1019,UAV/IoT,82,77,94,84
+1020,UAV/IoT,108,88,87,93
+1021,Agriculture,56,90,89,91
+1022,Industry 5.0,74,70,89,86
+1023,UAV/IoT,88,74,90,75
+1024,Healthcare,76,85,91,86
+1025,Security/IoT,82,75,91,91
+1026,Smart Cities,82,77,85,77
+1027,Insurance/Enterprise,86,82,86,85
+1028,Industry 5.0,79,85,93,91
+1029,IoT Networking/Systems,77,72,94,77
+1030,Healthcare,104,88,86,82
+1031,Aquaculture,105,81,90,94
+1032,Utilities,69,85,85,78
+1033,UAV/IoT,48,80,87,81
+1034,IoT Networking/Systems,105,79,86,88
+1035,UAV/IoT,71,94,87,88
+1036,Telecom,93,89,89,78
+1037,Healthcare,66,73,94,90
+1038,Telecom,109,81,90,75
+1039,Agriculture,128,92,93,91
+1040,Telecom,92,71,94,84
+1041,Agriculture,88,93,88,90
+1042,Aquaculture,85,91,91,90
+1043,Agriculture,101,88,90,82
+1044,IoT Networking/Systems,98,94,86,81
+1045,UAV/IoT,105,74,94,80
+1046,Utilities,80,77,92,90
+1047,Insurance/Enterprise,95,76,91,94
+1048,Telecom,81,83,91,90
+1049,Insurance/Enterprise,74,93,92,81
+1050,Healthcare,89,92,85,83
+1051,Agriculture,76,72,85,88
+1052,UAV/IoT,107,87,92,85
+1053,Smart Cities,77,85,88,88
+1054,Industry 5.0,95,92,89,81
+1055,IoT Networking/Systems,80,88,92,75
+1056,Utilities,94,88,89,87
+1057,6G Networks,82,87,94,94
+1058,IoT Networking/Systems,71,89,88,77
+1059,Aquaculture,97,85,90,94
+1060,Smart Cities,86,77,89,78
+1061,Industry 5.0,94,70,91,85
+1062,Smart Cities,83,86,94,76
+1063,Telecom,70,81,91,88
+1064,Agriculture,106,90,88,86
+1065,Utilities,101,80,89,91
+1066,Security/IoT,81,74,87,86
+1067,Agriculture,91,81,88,86
+1068,Security/IoT,105,86,88,75
+1069,Insurance/Enterprise,83,75,87,87
+1070,Industry 5.0,85,70,94,88
+1071,UAV/IoT,93,74,89,76
+1072,6G Networks,83,94,89,86
+1073,Healthcare,102,83,91,90
+1074,Agriculture,87,74,88,78
+1075,Utilities,78,91,88,82
+1076,Aquaculture,99,93,93,76
+1077,Aquaculture,72,70,90,84
+1078,Smart Cities,120,87,88,83
+1079,Utilities,113,85,86,89
+1080,Industry 5.0,97,78,90,87
+1081,Insurance/Enterprise,96,88,86,91
+1082,Security/IoT,95,91,89,90
+1083,Smart Cities,82,74,90,76
+1084,Aquaculture,94,71,88,94
+1085,Healthcare,76,84,87,94
+1086,Healthcare,97,76,91,88
+1087,Agriculture,103,73,86,77
+1088,Industry 5.0,84,70,90,86
+1089,UAV/IoT,81,82,88,82
+1090,Aquaculture,71,89,90,76
+1091,Industry 5.0,111,91,88,78
+1092,Insurance/Enterprise,82,76,88,88
+1093,Security/IoT,87,84,88,90
+1094,Utilities,94,92,93,93
+1095,Aquaculture,94,83,91,76
+1096,Healthcare,101,92,87,86
+1097,Utilities,84,88,87,88
+1098,Utilities,72,91,90,80
+1099,Utilities,70,93,90,87
+1100,Healthcare,81,89,88,78
+1101,Insurance/Enterprise,75,93,93,92
+1102,IoT Networking/Systems,85,87,88,86
+1103,Telecom,109,79,93,94
+1104,Security/IoT,84,78,88,93
+1105,IoT Networking/Systems,84,94,86,82
+1106,Security/IoT,89,77,86,81
+1107,Smart Cities,83,79,89,90
+1108,Industry 5.0,88,86,88,93
+1109,Industry 5.0,98,71,91,80
+1110,6G Networks,103,75,89,94
+1111,Industry 5.0,105,74,90,85
+1112,Healthcare,120,78,94,79
+1113,UAV/IoT,98,74,88,90
+1114,Agriculture,123,87,86,81
+1115,6G Networks,78,89,94,79
+1116,Agriculture,121,78,93,85
+1117,Security/IoT,84,86,94,89
+1118,Agriculture,85,86,91,77
+1119,Agriculture,88,81,88,79
+1120,6G Networks,86,76,87,79
+1121,Smart Cities,91,72,94,83
+1122,Utilities,81,79,87,89
+1123,Industry 5.0,102,71,93,77
+1124,Industry 5.0,81,94,89,80
+1125,Healthcare,99,72,87,91
+1126,6G Networks,112,85,89,82
+1127,Healthcare,84,71,86,85
+1128,UAV/IoT,101,93,88,80
+1129,UAV/IoT,98,79,94,82
+1130,Healthcare,123,75,86,84
+1131,6G Networks,82,91,86,77
+1132,Healthcare,101,80,92,88
+1133,Industry 5.0,65,92,85,88
+1134,IoT Networking/Systems,82,76,91,84
+1135,Telecom,95,84,89,86
+1136,Agriculture,110,75,92,80
+1137,Telecom,71,89,85,86
+1138,6G Networks,101,78,91,88
+1139,Insurance/Enterprise,89,91,89,76
+1140,Telecom,67,89,88,83
+1141,UAV/IoT,92,81,91,84
+1142,Security/IoT,115,88,94,91
+1143,Agriculture,73,89,86,91
+1144,Utilities,88,72,85,77
+1145,Insurance/Enterprise,75,84,85,93
+1146,6G Networks,82,71,85,75
+1147,Agriculture,111,90,89,86
+1148,Telecom,85,71,94,81
+1149,UAV/IoT,111,91,91,78
+1150,Smart Cities,106,72,86,84
+1151,IoT Networking/Systems,84,75,94,87
+1152,Utilities,82,84,92,76
+1153,Insurance/Enterprise,76,79,88,84
+1154,IoT Networking/Systems,76,78,87,78
+1155,Agriculture,95,70,94,92
+1156,UAV/IoT,89,85,92,79
+1157,UAV/IoT,80,75,86,93
+1158,Telecom,66,78,87,76
+1159,Industry 5.0,91,73,87,86
+1160,Telecom,82,71,94,91
+1161,Industry 5.0,87,73,85,84
+1162,Industry 5.0,94,70,90,76
+1163,Utilities,52,88,86,80
+1164,Telecom,67,94,85,82
+1165,Aquaculture,124,79,86,93
+1166,Smart Cities,82,90,90,85
+1167,Insurance/Enterprise,52,84,88,86
+1168,Healthcare,68,91,90,83
+1169,Healthcare,127,88,93,76
+1170,Telecom,79,85,94,82
+1171,Telecom,107,90,94,85
+1172,IoT Networking/Systems,91,93,92,78
+1173,Insurance/Enterprise,82,91,85,84
+1174,Insurance/Enterprise,101,73,92,94
+1175,Utilities,54,71,93,90
+1176,Telecom,68,94,90,82
+1177,Insurance/Enterprise,82,82,94,78
+1178,IoT Networking/Systems,69,70,89,84
+1179,Industry 5.0,81,86,90,86
+1180,UAV/IoT,102,82,90,88
+1181,UAV/IoT,91,73,93,90
+1182,Industry 5.0,109,76,88,92
+1183,6G Networks,92,86,86,86
+1184,IoT Networking/Systems,104,78,93,92
+1185,Insurance/Enterprise,89,73,86,81
+1186,Aquaculture,81,88,94,94
+1187,IoT Networking/Systems,112,70,93,81
+1188,Industry 5.0,79,79,86,83
+1189,Smart Cities,95,73,92,75
+1190,Security/IoT,101,78,93,80
+1191,Agriculture,102,82,94,80
+1192,Industry 5.0,72,83,93,86
+1193,Aquaculture,105,79,94,86
+1194,Insurance/Enterprise,75,75,93,84
+1195,Aquaculture,102,85,86,80
+1196,Aquaculture,98,75,88,91
+1197,Telecom,102,86,91,93
+1198,Telecom,71,79,86,92
+1199,Utilities,98,87,85,80
+1200,Industry 5.0,106,91,87,93
